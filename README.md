@@ -70,8 +70,7 @@ View Objective A notebook for details: [Objective_A_(Salary_Distribution)](Objec
 
 The majority of jobs are remote (indicated as "Anywhere" in Plot 2), which broadens opportunities beyond an individual's local region. For those living in states with fewer on-site positions or lower average salaries - such as Nebraska or Utah - remote work provides access to more competitive opportunities and potentially higher compensation.
 
-Plot 2
-![alt text](image-1.png)
+Plot 2 ![alt text](image-1.png)
 
 View Objective B notebook for details: [Objective_B_(Job_Postings_by_Region)](Objective_B_(Job_Postings_by_Region).ipynb).
 
