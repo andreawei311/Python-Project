@@ -51,9 +51,23 @@ Before diving into my analysis, I did the following to clean up or format the da
 4. Explode the 'job_skills' column (to pave the way for Objective E); and
 5. Extract the "state" from the 'location' column (e.g., "California") and re-format the strings.
 
-To see the details of these steps, please view my notebook: [Data_Cleaning_(Preliminary)] (Data_Cleaning_(Preliminary).ipynb)
+To find the details of these steps, please view my notebook: [Data_Cleaning_(Preliminary)](Data_Cleaning_(Preliminary).ipynb).
 
+## In-Depth Analysis
 
+The dataset covers positions posted between November 2022 and April 2025.
+
+### Objective A - What does the distribution of salary look like overall? 
+
+As shown in the histogram below, most data analyst jobs pay around $100,000 annually.
+
+View my notebook for details: [Objective_A_(Salary Distribution)](Objective_A_(Salary Distribution).ipynb)
+
+![alt text](image.png)
+
+### Objective B - In what locations or regions are most companies hiring? 
+
+View my notebook for details: [Objective_B_(Job Postings by Region)](Objective_B_(Job Postings by Region).ipynb)
 
 
 
