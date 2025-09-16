@@ -59,16 +59,56 @@ The dataset covers positions posted between November 2022 and April 2025.
 
 ### Objective A - What does the distribution of salary look like overall? 
 
-As shown in the histogram below, most data analyst jobs pay around $100,000 annually.
+As shown in the histogram below (Plot 1), most data analyst jobs pay around $100,000 annually.
 
-View my notebook for details: [Objective_A_(Salary Distribution)](Objective_A_(Salary Distribution).ipynb)
-
+Plot 1
 ![alt text](image.png)
+
+View Objective A notebook for details: [Objective_A_(Salary_Distribution)](Objective_A_(Salary_Distribution).ipynb).
 
 ### Objective B - In what locations or regions are most companies hiring? 
 
-View my notebook for details: [Objective_B_(Job Postings by Region)](Objective_B_(Job Postings by Region).ipynb)
+The majority of jobs are remote (indicated as "Anywhere" in Plot 2), which broadens opportunities beyond an individual's local region. For those living in states with fewer on-site positions or lower average salaries - such as Nebraska or Utah - remote work provides access to more competitive opportunities and potentially higher compensation.
 
+Plot 2
+![alt text](image-1.png)
+
+View Objective B notebook for details: [Objective_B_(Job_Postings_by_Region)](Objective_B_(Job_Postings_by_Region).ipynb).
+
+### Objective C - How are salaries trending? 
+
+My initial goal was to determine whether there is an optimal time of year to find or switch jobs. However, as shown in Plot 3, no clear trend is evident. I attribute this to time-related data limitations. It is likely that a discernible trend could be identified with a dataset covering 5 to 10 years.
+
+Plot 3 shows that while the salary at the 75th percentile has remained stable, the median and 25th percentile salaries have fluctuated drastically.
+
+This suggests that if you are competitive job seeker (e.g., you have more expeirience or optimal skills (explored in Objective D)), you might not need to factor timing into your consideration.
+
+Plot 3
+![alt text](image-2.png)
+
+The following visualization (Plot 4) indicates that the median salary dropped to around $60,000 in late 2023, potentially due to cyclical or market-driven influences, but recovered in early 2024.
+
+Plot 4
+![alt text](image-3.png)
+
+View Objective C notebook for details: [Objective_C_(Salary_Trends)](Objective_C_(Salary_Trends).ipynb).
+
+### Objective D - What are the most optimal skills to learn for Data Analysts? (High-demand vs. high-paying) 
+
+As shown in Plot 5, SQL, Tableau, and Excel are the most in-demand skills; however, Plot 6 indicates they do not correspond to the highest-paying skills. This suggests that while these skills are important for entry into the field, advancing to higher salary levels typically requires ongoing skill development and specialization.
+
+Plot 5
+![alt text](image-4.png)
+
+Plot 6
+![alt text](image-5.png)
+
+Plot 7 indicates that an entry-level data analyst is more likely to stand out if they are proficient in a programming language (e.g., Python) and a cloud platform (e.g., AWS).
+
+Plot 7
+![alt text](image-6.png)
+
+View Objective D notebook for details: [Objective_D_(Skill_Salary_Analysis)](Objective_D_(Skill_Salary_Analysis).ipynb).
 
 
 
