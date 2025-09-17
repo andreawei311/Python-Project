@@ -62,7 +62,7 @@ The dataset covers positions posted between November 2022 and April 2025.
 As shown in the histogram below (Plot 1), most data analyst jobs pay around $100,000 annually.
 
 Plot 1
-![alt text](image.png)
+![alt text](_images/image.png)
 
 View Objective A notebook for details: [Objective_A_(Salary_Distribution)](Objective_A_(Salary_Distribution).ipynb).
 
@@ -70,7 +70,7 @@ View Objective A notebook for details: [Objective_A_(Salary_Distribution)](Objec
 
 The majority of jobs are remote (indicated as "Anywhere" in Plot 2), which broadens opportunities beyond an individual's local region. For those living in states with fewer on-site positions or lower average salaries - such as Nebraska or Utah - remote work provides access to more competitive opportunities and potentially higher compensation.
 
-Plot 2 ![alt text](image-1.png)
+Plot 2 ![alt text](_images/image-1.png)
 
 View Objective B notebook for details: [Objective_B_(Job_Postings_by_Region)](Objective_B_(Job_Postings_by_Region).ipynb).
 
@@ -82,13 +82,13 @@ Plot 3 shows that while the salary at the 75th percentile has remained stable, t
 
 This suggests that if you are competitive job seeker (e.g., you have more expeirience or optimal skills (explored in Objective D)), you might not need to factor timing into your consideration.
 
-Plot 3
-![alt text](image-2.png)
+Plot 3 \
+![alt text](_images/image-2.png)
 
 The following visualization (Plot 4) indicates that the median salary dropped to around $60,000 in late 2023, potentially due to cyclical or market-driven influences, but recovered in early 2024.
 
-Plot 4
-![alt text](image-3.png)
+Plot 4 \
+![alt text](_images/image-3.png)
 
 View Objective C notebook for details: [Objective_C_(Salary_Trends)](Objective_C_(Salary_Trends).ipynb).
 
@@ -96,16 +96,16 @@ View Objective C notebook for details: [Objective_C_(Salary_Trends)](Objective_C
 
 As shown in Plot 5, SQL, Tableau, and Excel are the most in-demand skills; however, Plot 6 indicates they do not correspond to the highest-paying skills. This suggests that while these skills are important for entry into the field, advancing to higher salary levels typically requires ongoing skill development and specialization.
 
-Plot 5
-![alt text](image-4.png)
+Plot 5 \
+![alt text](_images/image-4.png)
 
-Plot 6
-![alt text](image-5.png)
+Plot 6 \
+![alt text](_images/image-5.png)
 
 Plot 7 indicates that an entry-level data analyst is more likely to stand out if they are proficient in a programming language (e.g., Python) and a cloud platform (e.g., AWS).
 
-Plot 7
-![alt text](image-6.png)
+Plot 7 \
+![alt text](_images/image-6.png)
 
 View Objective D notebook for details: [Objective_D_(Skill_Salary_Analysis)](Objective_D_(Skill_Salary_Analysis).ipynb).
 
