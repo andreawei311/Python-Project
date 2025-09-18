@@ -1,6 +1,7 @@
-# Overview
+# Python Project: Data Analyst Job Market Analysis
 
-## This project seeks to answer the following questions:
+## Overview
+### This project seeks to answer the following questions:
 
     A. What does the distribution of salary look like overall? 
 
